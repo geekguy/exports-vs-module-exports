@@ -1,3 +1,3 @@
-exports.anything = function() {
+module.exports.anything = function() {
   console.log('I am anything.');
 };
