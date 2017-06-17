@@ -1,5 +1,2 @@
-exports = { a: 1 };
-
-// module.exports.anything = function() {
-//   console.log('I am anything.');
-// };
+// this is how you can export a object directly.
+module.exports = { a: 1 };
