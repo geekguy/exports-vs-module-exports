@@ -5,4 +5,6 @@ const hello = require('./hello');
 console.log(hello); // this ll be empty object {}
 
 // this line with throw error.
-hello.anything();
+hello.hi();
+
+hello.bye();
